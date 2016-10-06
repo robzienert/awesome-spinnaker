@@ -14,6 +14,7 @@ please submit a Pull Request to improve this file. Thank you!_**
 
 * Awesome Spinnaker
   * [Resources](#resources)
+  * [Services](#services)
   * [Tools](#tools)
 
 ## Resources
@@ -24,6 +25,13 @@ _Articles, blog posts, tutorials and websites related to Spinnaker._
 * [gate-extension](https://github.com/ajordens/gate-extension) - An example of building a Spinnaker service extension.
 * [Spinnaker.io Docs](http://spinnaker.io/docs) - The official documentation.
 * [spinnaker-script](https://github.com/j-oconnor/spinnaker-script) - An example of how to use the Script Stage.
+
+## Services
+
+_Companies (SaaS and otherwise) that offer enterpise extensions to Spinnaker._
+
+* [armory.io](http://www.armory.io/) - SaaS Spinnaker hosting.
+* [OpsMx](http://opsmx.com/) - Canary Analysis service extension.
 
 ## Tools
 
