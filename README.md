@@ -21,6 +21,7 @@ please submit a Pull Request to improve this file. Thank you!_**
 
 _Articles, blog posts, tutorials and websites related to Spinnaker._
 
+* [Adam Jordens](https://medium.com/@ajordens) - Blog for Adam Jordens, writes about Spinnaker use inside Netflix.
 * [spinnaker-deploymentmanager](https://github.com/GoogleCloudPlatform/spinnaker-deploymentmanager) - GCP Deployment Manager templates.
 * [gate-extension](https://github.com/ajordens/gate-extension) - An example of building a Spinnaker service extension.
 * [Spinnaker.io Docs](http://spinnaker.io/docs) - The official documentation.
