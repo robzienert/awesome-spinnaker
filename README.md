@@ -13,29 +13,44 @@ please submit a Pull Request to improve this file. Thank you!_**
 ### Contents
 
 * Awesome Spinnaker
+  * [Setup](#setup)
   * [Resources](#resources)
   * [Services](#services)
   * [Tools](#tools)
+  
+## Setup
+
+_Unofficial projects designed to help get started with Spinnaker._
+
+* [spinnaker-ansible](https://github.com/AMeng/spinnaker-ansible) - An ansible role for installing and configuring Netflix's Spinnaker
+* [spinnaker-deploymentmanager](https://github.com/GoogleCloudPlatform/spinnaker-deploymentmanager) - GCP Deployment Manager templates.
 
 ## Resources
 
 _Articles, blog posts, tutorials and websites related to Spinnaker._
 
+### Blogs
+
 * [Adam Jordens](https://medium.com/@ajordens) - Blog for Adam Jordens, writes about Spinnaker use inside Netflix.
-* [spinnaker-deploymentmanager](https://github.com/GoogleCloudPlatform/spinnaker-deploymentmanager) - GCP Deployment Manager templates.
+* [Rob Zienert](https://medium.com/@rizza) - Blog for Rob Zienert, writes a regular log about developing Spinnaker at Netflix and Spinnaker internals.
+
+### Tutorials
+
 * [gate-extension](https://github.com/ajordens/gate-extension) - An example of building a Spinnaker service extension.
-* [Spinnaker.io Docs](http://spinnaker.io/docs) - The official documentation.
 * [spinnaker-script](https://github.com/j-oconnor/spinnaker-script) - An example of how to use the Script Stage.
 
 ## Services
 
-_Companies (SaaS and otherwise) that offer enterpise extensions to Spinnaker._
+_Companies (SaaS and otherwise) that offer enterpise services and extensions for Spinnaker._
 
 * [armory.io](http://www.armory.io/) - SaaS Spinnaker hosting.
 * [OpsMx](http://opsmx.com/) - Canary Analysis service extension.
 
 ## Tools
 
-_Command-line tools developed to compliment interacting with Spinnaker._
+_Tools developed to compliment interacting with Spinnaker._
 
 * [Foremast](https://github.com/gogoair/foremast) - Pipeline and infrastructure configuration tool.
+* [spinnaker-performance](https://github.com/ajordens/spinnaker-performance) - A suite of performance tests for Spinnaker.
+* [spinnaker-test-pipelines](https://github.com/armory/spinnaker-test-pipelines) - Collection of pipelines used to test that Spinnaker is working as intended.
+* [Winnaker](https://github.com/target/winnaker) - Winnaker is an auditing tool for Spinnaker. Real testing in a real browser!
