@@ -43,8 +43,9 @@ _Articles, blog posts, tutorials and websites related to Spinnaker._
 
 _Companies (SaaS and otherwise) that offer enterpise services and extensions for Spinnaker._
 
-* [armory.io](http://www.armory.io/) - SaaS Spinnaker hosting.
-* [OpsMx](http://opsmx.com/) - Canary Analysis service extension.
+* [Armory](http://www.armory.io/) - Enterprise Spinnaker and consulting.
+* [Mirantis](https://www.mirantis.com/) - Enterprise Spinnaker and consulting.
+* [OpsMx](http://opsmx.com/) - Canary Analysis service and consulting.
 
 ## Tools
 
