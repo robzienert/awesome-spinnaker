@@ -33,6 +33,7 @@ _Articles, blog posts, tutorials and websites related to Spinnaker._
 
 * [Adam Jordens](https://medium.com/@ajordens) - Blog for Adam Jordens, writes about Spinnaker use inside Netflix.
 * [Rob Zienert](https://medium.com/@rizza) - Blog for Rob Zienert, writes a regular log about developing Spinnaker at Netflix and Spinnaker internals.
+* [Spinnaker.io Blog](https://blog.spinnaker.io/) - Official community blog.
 
 ### Tutorials
 
