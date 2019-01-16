@@ -56,3 +56,4 @@ _Tools developed to compliment interacting with Spinnaker._
 * [spinnaker-performance](https://github.com/ajordens/spinnaker-performance) - A suite of performance tests for Spinnaker.
 * [spinnaker-test-pipelines](https://github.com/armory/spinnaker-test-pipelines) - Collection of pipelines used to test that Spinnaker is working as intended.
 * [Winnaker](https://github.com/target/winnaker) - Winnaker is an auditing tool for Spinnaker. Real testing in a real browser!
+* [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - Manage Spinnaker Pipelines and Applications via Terraform
