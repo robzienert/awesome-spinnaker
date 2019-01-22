@@ -53,7 +53,8 @@ _Companies (SaaS and otherwise) that offer enterpise services and extensions for
 _Tools developed to compliment interacting with Spinnaker._
 
 * [Foremast](https://github.com/gogoair/foremast) - Pipeline and infrastructure configuration tool.
+* [spinnaker-oss-setup](https://github.com/robzienert/spinnaker-oss-setup) - Setup your machine for doing Spinnaker development.
 * [spinnaker-performance](https://github.com/ajordens/spinnaker-performance) - A suite of performance tests for Spinnaker.
 * [spinnaker-test-pipelines](https://github.com/armory/spinnaker-test-pipelines) - Collection of pipelines used to test that Spinnaker is working as intended.
-* [Winnaker](https://github.com/target/winnaker) - Winnaker is an auditing tool for Spinnaker. Real testing in a real browser!
 * [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - Manage Spinnaker Pipelines and Applications via Terraform
+* [Winnaker](https://github.com/target/winnaker) - Winnaker is an auditing tool for Spinnaker. Real testing in a real browser!
