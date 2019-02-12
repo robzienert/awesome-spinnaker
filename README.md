@@ -24,6 +24,7 @@ _Unofficial projects designed to help get started with Spinnaker._
 
 * [spinnaker-ansible](https://github.com/AMeng/spinnaker-ansible) - An ansible role for installing and configuring Netflix's Spinnaker
 * [spinnaker-deploymentmanager](https://github.com/GoogleCloudPlatform/spinnaker-deploymentmanager) - GCP Deployment Manager templates.
+* [spinnaker-oss-setup](https://github.com/robzienert/spinnaker-oss-setup) - Setup your machine for doing Spinnaker development.
 
 ## Resources
 
@@ -53,7 +54,6 @@ _Companies (SaaS and otherwise) that offer enterpise services and extensions for
 _Tools developed to compliment interacting with Spinnaker._
 
 * [Foremast](https://github.com/gogoair/foremast) - Pipeline and infrastructure configuration tool.
-* [spinnaker-oss-setup](https://github.com/robzienert/spinnaker-oss-setup) - Setup your machine for doing Spinnaker development.
 * [spinnaker-performance](https://github.com/ajordens/spinnaker-performance) - A suite of performance tests for Spinnaker.
 * [spinnaker-test-pipelines](https://github.com/armory/spinnaker-test-pipelines) - Collection of pipelines used to test that Spinnaker is working as intended.
 * [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - Manage Spinnaker Pipelines and Applications via Terraform
